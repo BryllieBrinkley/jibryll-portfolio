@@ -103,6 +103,7 @@ PROJECTS
 
 #project .card img {
     width: 100%;
+    padding: 1%
 }
 
 #project .card-title {
